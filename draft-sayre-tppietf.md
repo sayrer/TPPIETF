@@ -3,7 +3,7 @@ stand_alone: true
 ipr: trust200902
 cat: info
 submissiontype: independent
-area: General
+# area: General
 
 docname: draft-sayre-tppietf-latest
 
