@@ -5,7 +5,7 @@ cat: info
 submissiontype: independent
 area: General
 
-docname: draft-sayre-tppietf-00
+docname: draft-sayre-tppietf-latest
 
 title: "TPPIETF: The Proverbial Printer Impeding Encryption Task Forces"
 abbrev: TPPIETF
